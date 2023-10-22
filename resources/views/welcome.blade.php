@@ -16,6 +16,7 @@
         <!-- Styles -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
+        <link rel="shortcut icon" href="images/clube_tres_video_branco.png" type="image/x-icon">
     </head>
     <body>
 
