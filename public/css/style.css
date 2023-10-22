@@ -2,9 +2,11 @@
 
 :root{
     --claro: #b19d8d;
+    --claro2: #e4d5bb;
     --escuro: #3d1300;
     --branco: #ffffff;
     --preto: #000000;
+    --vermelho: #ab192d;
 }
 
 body{
@@ -69,4 +71,31 @@ body{
     font-size: 13px;
     font-weight: 500;
     letter-spacing: 2px;
+}
+
+.banner{
+    background-color: var(--claro2);
+    color: var(--escuro);
+    margin: 0;
+    padding: 0 3rem;
+}
+
+.banner h2{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.banner p{
+    font-weight: 700;
+    font-size: 13px;
+    margin-top: 20px;
+    margin-bottom: 0%;
+    text-transform: uppercase;
+}
+
+.banner a{
+    color: var(--vermelho);
+    font-weight: 600;
+    font-size: 13px;
+    text-decoration: none;
 }
