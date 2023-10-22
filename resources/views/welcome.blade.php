@@ -48,7 +48,7 @@
             </div>
         </div>
 
-        <div class="row">
+        <div class="row mb-5">
             <div class="col-5 banner" style="height: 500px">
                 <img src="images/clube_tres_video_branco.png" alt="Clube TRES" class="img-banner mt-5 col-md-4 col-6">
                 <h2 class="fs-5 mt-3">Programa de benefícios para quem é apaixonado por sabores.</h2>
@@ -59,7 +59,48 @@
                 <img src="images/banner_home.jpg" class="h-100 w-100 object-fit-cover" alt="Clube TRES Evoluiu" style="object-position: right;">
             </div>
         </div>
+    </div>
 
+    <div class="container">
+
+        <div class="row justify-content-center mt-2 mb-5">
+            <div class="col-md-8">
+                <h3 class="txt-1">
+                    Bem-vindo(a) ao clube
+                    <img src="images/logo-tres.png" alt="TRES">
+                    <br>
+                    a melhor <span>experiência</span> 
+                    em cafés espresssos e multibebidas.
+                </h3>
+            </div>
+        </div>
+
+        <div class="row justify-content-center mt-2 mb-5">
+            <div class="col-md-8">
+                <p class="txt-2">
+                    No <span>Clube Tres®</span> 
+                    você faz parte de um Programa de benefícios exclusivos desenvolvidos 
+                    para quem é apaixonado por sabores de café.
+                </p>
+            </div>
+        </div>
+
+        <div class="row justify-content-center mb-3">
+            <div class="col-auto">
+                <button type="button" class="btn btn-1">
+                    PARTICIPE AGORA
+                </button>
+            </div>
+        </div>
+
+        <div class="row justify-content-center mb-5">
+            <div class="col-md-8">
+                <p class="txt-3">
+                    QUANTO MAIS VOCÊ PARTICIPAR, <br>
+                    MAIS <span>VANTAGENS</span> E <span>BENEFÍCIOS</span> VOCÊ RECEBE.
+                </p>
+            </div>
+        </div>
 
     </div>
 </body>
