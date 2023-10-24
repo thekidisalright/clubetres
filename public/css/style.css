@@ -356,3 +356,31 @@ small{
     font-style: italic;
     margin-top: 20px;
 }
+
+.txt-8{
+    margin-top: 85px;
+}
+
+.txt-8 h2{
+    font-size: 35px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    color: var(--escuro);
+    text-align: center;
+    line-height: 1.1;
+}
+
+.txt-8 span{
+    color: var(--vermelho);
+}
+
+.txt-8 h3{
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: var(--escuro);
+    text-align: center;
+    line-height: 1.1;
+    margin-top: 50px;
+}

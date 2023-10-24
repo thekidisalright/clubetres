@@ -110,7 +110,33 @@
             </div>
         </div>
 
-        <div class="row"></div>
+        <div class="row justify-content-center">
+            <div class="col-auto txt-8">
+                <h2>NÃO PERCA TEMPO!<br>FAÇA PARTE AGORA DO <span>CLUBE TRES®.</span></h2>
+                <h3>Um programa de benefícios para quem é <span>apaixonado por sabores.</span></h3>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-auto mt-4 mb-5">
+                <button type="button" class="btn btn-1">QUERO PARTICIPAR</button>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-6 d-flex justify-content-center py-3" style="background-color: var(--marrom);"><span class="footer-txt">escolha <span>tres</span></span></div>
+            <div class="col-6 d-flex justify-content-center py-3" style="background-color: var(--escuro);"><span class="footer-txt">comprar</span></div>
+        </div>
+
+        <div class="row" style="background-color: #230c00">
+            <div class="row justify-content-center">
+                <div class="col-auto p-0 m-0 pt-3"><span style="width: fit-content; color: var(--claro)">política de privacidade &nbsp|</span></div>
+                <div class="col-auto p-0 m-0 pt-3"><span style="width: fit-content; color: var(--claro)">&nbsp portal de privacidade</span></div>
+            </div>
+            <div class="row">
+                <div class="col p-0 m-0 d-flex justify-content-center"><img src="images/footer-mobile.png" alt="footer" class=""></div>
+            </div>
+        </div>
     
     </div>
 </body>
