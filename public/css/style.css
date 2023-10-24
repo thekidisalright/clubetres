@@ -226,3 +226,161 @@ body{
     font-weight: 700;
     width: fit-content;
 }
+
+.como-participar{
+    min-width: 575px;
+}
+
+.txt-5{
+    font-size: 35px;
+    font-weight: 300;
+    color: var(--marrom);
+    text-align: center;
+    line-height: 50px;
+}
+
+.txt-5 span{
+    color: var(--vermelho);
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.txt-6{
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 30px;
+    color: var(--marrom);
+    text-align: center;
+}
+
+.txt-6 span{
+    color: var(--escuro);
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.txt-7{
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 30px;
+    color: var(--marrom);
+    text-align: center;
+}
+
+.txt-7 strong{
+    color: var(--vermelho);
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.txt-7 span{
+    color: var(--escuro);
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+#explorador{
+    background-color: var(--claro2);
+    color: var(--escuro);
+}
+
+#apaixonado{
+    background-color: var(--claro);
+    color: var(--branco);
+}
+
+#entusiasta{
+    background-color: var(--escuro);
+    color: var(--branco);
+}
+
+.tipo-cliente h3{
+    font-size: 22px;
+    line-height: 26px;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.tipo-cliente h3 strong{
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.tc-txt-1{
+    font-size: 20px;
+    line-height: 1.42857143;
+    font-weight: 700;
+    margin-bottom: 10px;
+    margin-top: 60px;
+}
+
+.tc-txt-1 strong{
+    color: var(--vermelho);
+    font-weight: 700;
+}
+
+.tc-txt-2{
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.tc-txt-2 strong{
+    color: var(--vermelho);
+    font-weight: 700;
+}
+
+.tc-txt-3{
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.tc-txt-3 strong{
+    color: var(--vermelho);
+    font-weight: 700;
+}
+
+.tc-txt-3 span{
+    color: var(--vermelho);
+}
+
+small{
+    font-size: 10px;
+    font-weight: 500;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.txt-8{
+    margin-top: 85px;
+}
+
+.txt-8 h2{
+    font-size: 35px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    color: var(--escuro);
+    text-align: center;
+    line-height: 1.1;
+}
+
+.txt-8 span{
+    color: var(--vermelho);
+}
+
+.txt-8 h3{
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: var(--escuro);
+    text-align: center;
+    line-height: 1.1;
+    margin-top: 50px;
+}
