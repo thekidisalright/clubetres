@@ -384,3 +384,66 @@ small{
     line-height: 1.1;
     margin-top: 50px;
 }
+
+.reg-row-1{
+    background-color: var(--marrom);
+    padding: 1rem;
+    text-align: center;
+}
+
+.reg-row-1 h2{
+    text-transform: uppercase;
+    font-size: 27px;
+    letter-spacing: 6px;
+    font-weight: 300;
+    color: var(--claro);
+    margin-bottom: 1rem;
+}
+
+.reg-row-1 p{
+    font-size: 21px;
+    font-weight: 300;
+    color: var(--branco);
+}
+
+.reg-table thead th{
+    padding: 1rem;
+    line-height: 1.42857143;
+    vertical-align: top;
+}
+
+.reg-table thead{
+    background: #ead6ba;
+}
+
+.reg-table td{
+    padding: 1rem;
+}
+
+.reg-row-2 p{
+    font-size: 13px;
+    font-family: 300;
+    color: var(--escuro);
+    margin-top: 10px;
+    text-align: left;
+    line-height: 1.42857143;
+}
+
+.reg-row-2 p span{
+    text-decoration: underline;
+    font-weight: 700;
+    color: #3f1001;
+}
+
+.reg-row-2 p strong{
+    font-weight: 700;
+    color: #3f1001;
+}
+
+.reg-row-2 h2{
+    font-size: 20px;
+    font-weight: 700;
+    color: #ca9145;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
