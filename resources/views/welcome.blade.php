@@ -27,7 +27,7 @@
         <div class="row navbar">
             <div class="row">
                 <div class="col logo-navbar py-2">
-                    <img src="images/home/logotres.png" alt="logo TRES">
+                    <a href="/"><img src="images/home/logotres.png" alt="logo TRES"></a>
                 </div>
                 <div class="col-auto py-4">
                     <div class="col">
@@ -40,10 +40,10 @@
             <div class="row justify-content-center mb-2">
                 <div class="col-md-10 col-lg-8 d-flex justify-content-between align-items-center">
                     <div class="col-auto"><a href="" class="ico-navbar"><img src="images/home/ico_login.png" alt="Login" style="width: 49px; height: 34px;"><span>LOGIN</span></a></div>
-                    <div class="col-auto"><a href="" class="ico-navbar"><img src="images/home/ico_participar.png" alt="Participar" style="width: 32px; height: 38px;"><span>BENEFÍCIOS</span></a></div>
+                    <div class="col-auto"><a href="/como-participar" class="ico-navbar"><img src="images/home/ico_participar.png" alt="Participar" style="width: 32px; height: 38px;"><span>BENEFÍCIOS</span></a></div>
                     <div class="col-auto"><a href="" class="ico-navbar"><img src="images/home/ico_cadastro.png" alt="Cadastro" style="width: 33px; height: 38px;"><span>CADASTRE-SE</span></a></div>
-                    <div class="col-auto"><a href="" class="ico-navbar"><img src="images/home/ico_regulamento.png" alt="Regulamento" style="width: 33px; height: 38px;"><span>REGULAMENTO</span></a></div>
-                    <div class="col-auto"><a href="" class="ico-navbar"><img src="images/home/ico_reciclagem.png" alt="Reciclagem" style="width: 32px; height: 38px;"><span>RECICLAGEM</span></a></div>
+                    <div class="col-auto"><a href="/regulamento" class="ico-navbar"><img src="images/home/ico_regulamento.png" alt="Regulamento" style="width: 33px; height: 38px;"><span>REGULAMENTO</span></a></div>
+                    <div class="col-auto"><a href="/reciclagem" class="ico-navbar"><img src="images/home/ico_reciclagem.png" alt="Reciclagem" style="width: 32px; height: 38px;"><span>RECICLAGEM</span></a></div>
                 </div>
             </div>
         </div>
