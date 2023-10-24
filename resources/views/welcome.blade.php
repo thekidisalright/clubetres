@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="shortcut icon" href="images/clube_tres_video_branco.png" type="image/x-icon">
 </head>
-<body>
+<body style="min-width: 575px;">
 
     <div class="container-fluid">
         <div class="row navbar">
@@ -38,7 +38,7 @@
                 </div>
             </div>
             <div class="row justify-content-center mb-2">
-                <div class="col-md-10 col-lg-8 d-flex justify-content-between">
+                <div class="col-md-10 col-lg-8 d-flex justify-content-between align-items-center">
                     <div class="col-auto"><a href="" class="ico-navbar"><img src="images/home/ico_login.png" alt="Login" style="width: 49px; height: 34px;"><span>LOGIN</span></a></div>
                     <div class="col-auto"><a href="" class="ico-navbar"><img src="images/home/ico_participar.png" alt="Participar" style="width: 32px; height: 38px;"><span>BENEFÍCIOS</span></a></div>
                     <div class="col-auto"><a href="" class="ico-navbar"><img src="images/home/ico_cadastro.png" alt="Cadastro" style="width: 33px; height: 38px;"><span>CADASTRE-SE</span></a></div>
@@ -51,7 +51,7 @@
         <div class="row mb-5">
             <div class="col-5 banner" style="height: 500px">
                 <img src="images/clube_tres_video_branco.png" alt="Clube TRES" class="img-banner mt-5 col-md-4 col-6">
-                <h2 class="fs-5 mt-3">Programa de benefícios para quem é apaixonado por sabores.</h2>
+                <h2 class="fs-5 mt-3 overflow-hiddden">Programa de benefícios para quem é apaixonado por sabores.</h2>
                 <p>Novidades em primeira mão, descontos em produtos, conteúdo exclusivo e muito mais.</p>
                 <a href="">CLIQUE E PARTICIPE!</a>
             </div>
@@ -99,6 +99,73 @@
                     QUANTO MAIS VOCÊ PARTICIPAR, <br>
                     MAIS <span>VANTAGENS</span> E <span>BENEFÍCIOS</span> VOCÊ RECEBE.
                 </p>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="container-fluid">
+
+        <div class="row justify-content-between">
+            <div class="col-6 ps-0 pe-md-3 pe-0 pb-md-3 pb-0 beneficios-pai">
+                <div class="col beneficios" id="beneficio1">
+                    <div class="col-auto d-flex flex-column align-items-center">
+                    <img class="img-fluid beneficios-img mb-3" src="images/cifra_dinheiro.png" alt="cifra">
+                    <h2 class="col text-center">descontos especiais</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 pe-0 ps-md-3 ps-0 pb-md-3 pb-0 beneficios-pai">
+                <div class="col beneficios" id="beneficio2">
+                    <div class="col-auto d-flex flex-column align-items-center">
+                    <img class="img-fluid beneficios-img mb-3" src="images/diamante.png" alt="">
+                    <h2 class="col text-center">benefícios exclusivos</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 ps-0 pe-md-3 pe-0 pt-md-3 pt-0 beneficios-pai">
+                <div class="col beneficios" id="beneficio3">
+                    <div class="col-auto d-flex flex-column align-items-center">
+                    <img class="img-fluid beneficios-img mb-3" src="images/mensagem.png" alt="">
+                    <h2 class="col text-center">novidades da Tres®<br>em primeira mão</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 pe-0 ps-md-3 ps-0 pt-md-3 pt-0 beneficios-pai">
+                <div class="col beneficios" id="beneficio4">
+                    <div class="col-auto d-flex flex-column align-items-center">
+                    <img class="img-fluid beneficios-img mb-3" src="images/pc.png" alt="">
+                    <h2 class="col text-center">pré-compra<br>de lançamentos</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="container">
+
+        <div class="row pt-5 pb-4">
+            <p class="txt-4">e muito mais...</p>
+        </div>
+
+    </div>
+
+    <div class="container-fluid">
+
+        <div class="row">
+            <img src="images/banner_novas_regras_2.jpg" alt="novas regras" class="col-12">
+            <div class="col-6 d-flex justify-content-center py-3" style="background-color: var(--marrom);"><span class="footer-txt">escolha <span>tres</span></span></div>
+            <div class="col-6 d-flex justify-content-center py-3" style="background-color: var(--escuro);"><span class="footer-txt">comprar</span></div>
+        </div>
+
+        <div class="row" style="background-color: #230c00">
+            <div class="row justify-content-center">
+                <div class="col-auto p-0 m-0 pt-3"><span style="width: fit-content; color: var(--claro)">política de privacidade &nbsp|</span></div>
+                <div class="col-auto p-0 m-0 pt-3"><span style="width: fit-content; color: var(--claro)">&nbsp portal de privacidade</span></div>
+            </div>
+            <div class="row">
+                <div class="col p-0 m-0 d-flex justify-content-center"><img src="images/footer-mobile.png" alt="footer" class=""></div>
             </div>
         </div>
 
